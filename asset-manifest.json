@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactassignment/static/css/main.664a4d90.chunk.css",
+    "main.js": "/reactassignment/static/js/main.80c153ee.chunk.js",
+    "main.js.map": "/reactassignment/static/js/main.80c153ee.chunk.js.map",
+    "runtime-main.js": "/reactassignment/static/js/runtime-main.c8693110.js",
+    "runtime-main.js.map": "/reactassignment/static/js/runtime-main.c8693110.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/reactassignment/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.e14858b2.chunk.js": "/reactassignment/static/js/2.e14858b2.chunk.js",
+    "static/js/2.e14858b2.chunk.js.map": "/reactassignment/static/js/2.e14858b2.chunk.js.map",
+    "index.html": "/reactassignment/index.html",
+    "precache-manifest.afa2d3c4851bba203f53074f41768831.js": "/reactassignment/precache-manifest.afa2d3c4851bba203f53074f41768831.js",
+    "service-worker.js": "/reactassignment/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/reactassignment/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.664a4d90.chunk.css.map": "/reactassignment/static/css/main.664a4d90.chunk.css.map",
+    "static/js/2.e14858b2.chunk.js.LICENSE.txt": "/reactassignment/static/js/2.e14858b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8693110.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.e14858b2.chunk.js",
+    "static/css/main.664a4d90.chunk.css",
+    "static/js/main.80c153ee.chunk.js"
+  ]
+}
